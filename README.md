@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">A passionate full Stack developer with 2 years of work Experience in Java and currently working my way to become a Full Stack Developer</h3>
+<h3 align="center">A highly motivated and passionate Full Stack Developer with a strong foundation in Java, web technologies, and software development practices. Eager to contribute technical skills, problem-solving abilities, and a keen enthusiasm to a dynamic team. Adept at learning new tools and technologies quickly, with excellent analytical, debugging, and troubleshooting skills. A reliable team player who can also work independently, adaptable to new environments, and committed to achieving organizational goals with high professional integrity. Looking to grow and contribute to a progressive development team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajie7&label=Profile%20views&color=0e75b6&style=flat" alt="balajie7" /> </p>
 
