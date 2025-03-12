@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML , CSS, JUnit, Spring Boot , MYSQL, DSA, Core Java, Spring**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tilt.onrender.com/](https://portfolio-tilt.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-tilt.onrender.com/)
 
 - 💬 Ask me about **Java , Spring Boot ,Junit ,MYSQL, DSA, HTML, CSS**
 
