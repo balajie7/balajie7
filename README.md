@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **balajie7373@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jqe6FskV17eLhiY50l3yvEz9C3VtLdPj/view?usp=drive_link](https://drive.google.com/file/d/1jqe6FskV17eLhiY50l3yvEz9C3VtLdPj/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jqe6FskV17eLhiY50l3yvEz9C3VtLdPj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
